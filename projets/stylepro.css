@@ -468,3 +468,21 @@
     cursor: default;
     margin-bottom: 10px;
 }
+
+
+
+.u-group-latex {
+  width: 150px; /* Réduire la largeur à 150px, ajustez selon vos besoins */
+  height: auto; /* Laisser la hauteur s'adapter automatiquement au contenu */
+  padding: 10px; /* Réduire l'espace interne */
+  margin: 20px auto; /* Centrer l'élément avec une marge externe ajustée */
+}
+
+.u-group-latex .u-container-layout {
+  padding: 5px; /* Réduire le padding interne du conteneur */
+}
+
+.u-group-latex p {
+  font-size: 1.2rem; /* Ajuster la taille de la police pour qu'elle corresponde à la taille du conteneur */
+}
+
